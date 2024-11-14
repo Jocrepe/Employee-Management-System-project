@@ -1,0 +1,12 @@
+C:\Users\kritt\OneDrive\เดสก์ท็อป\C# oop\Employee Management Project\Employee Management Project\Employee Management Project\bin\Debug\Employee Management Project.exe.config
+C:\Users\kritt\OneDrive\เดสก์ท็อป\C# oop\Employee Management Project\Employee Management Project\Employee Management Project\bin\Debug\Employee Management Project.exe
+C:\Users\kritt\OneDrive\เดสก์ท็อป\C# oop\Employee Management Project\Employee Management Project\Employee Management Project\bin\Debug\Employee Management Project.pdb
+C:\Users\kritt\OneDrive\เดสก์ท็อป\C# oop\Employee Management Project\Employee Management Project\Employee Management Project\obj\Debug\Employee Management Project.csproj.AssemblyReference.cache
+C:\Users\kritt\OneDrive\เดสก์ท็อป\C# oop\Employee Management Project\Employee Management Project\Employee Management Project\obj\Debug\Employee_Management_Project.Form1.resources
+C:\Users\kritt\OneDrive\เดสก์ท็อป\C# oop\Employee Management Project\Employee Management Project\Employee Management Project\obj\Debug\Employee_Management_Project.Properties.Resources.resources
+C:\Users\kritt\OneDrive\เดสก์ท็อป\C# oop\Employee Management Project\Employee Management Project\Employee Management Project\obj\Debug\Employee Management Project.csproj.GenerateResource.cache
+C:\Users\kritt\OneDrive\เดสก์ท็อป\C# oop\Employee Management Project\Employee Management Project\Employee Management Project\obj\Debug\Employee Management Project.csproj.CoreCompileInputs.cache
+C:\Users\kritt\OneDrive\เดสก์ท็อป\C# oop\Employee Management Project\Employee Management Project\Employee Management Project\obj\Debug\Employee Management Project.exe
+C:\Users\kritt\OneDrive\เดสก์ท็อป\C# oop\Employee Management Project\Employee Management Project\Employee Management Project\obj\Debug\Employee Management Project.pdb
+C:\Users\kritt\OneDrive\เดสก์ท็อป\C# oop\Employee Management Project\Employee Management Project\Employee Management Project\obj\Debug\Employee_Management_Project.LoadingForm.resources
+C:\Users\kritt\OneDrive\เดสก์ท็อป\C# oop\Employee Management Project\Employee Management Project\Employee Management Project\obj\Debug\Employee_Management_Project.Home.resources
